@@ -152,10 +152,7 @@ The framework is configured via `playwright.config.ts`:
 3. Create corresponding test files in `tests/`
 4. Keep locators centralized in `locators.ts` files
 
-## License
-
-ISC
 
 ## Author
 
-AutomationUI Team
+Bina Acharya
